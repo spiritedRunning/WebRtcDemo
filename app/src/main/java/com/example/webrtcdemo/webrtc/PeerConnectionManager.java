@@ -96,7 +96,7 @@ public class PeerConnectionManager {
     }
 
 
-    public void joinRoom(WebSocketManager webSocket, ArrayList<String> connections, boolean isVideoEnable, String id) {
+    public void joinRoom(WebSocketManager webSocket, List<String> connections, boolean isVideoEnable, String id) {
         this.myId = id;
         this.isVideoEnable = isVideoEnable;
         this.webSocketManager = webSocket;

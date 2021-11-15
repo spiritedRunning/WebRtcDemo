@@ -21,7 +21,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="房间号"
-                android:text="666555"/>
+                android:text="666000"/>
             <Button
                 android:id="@+id/button"
                 android:layout_width="match_parent"
